@@ -1,4 +1,4 @@
-# My First React App
+# React App
 
 This project is a movie search application built with React and Vite. It allows users to search for movies and displays trending movies.
 
